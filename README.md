@@ -69,15 +69,15 @@ IMDb-BI-Project/
 5. Analyze insights for trends in movie ratings, votes, durations, and distribution.
 
 ---
-## Screenshot
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/habibaIbrahim276/End-to-End-IMDb-BI-Analytics-Project-Power-BI-/blob/master/visuals/visual%201.png))
-
+### Dashboard Preview
+![Dashboard](visuals//visual1.png)
+![Dashboard](visuals//visual2.png)
 
 ## Author
 
 **Habiba Ibrahim Elmsery**
 
-- [Linkedin]: [https://www.linkedin.com/in/habiba-ebrahim/]
-- [Email]: [he046549@gmail.com]
+- [Linkedin]: (https://www.linkedin.com/in/habiba-ebrahim/)
+- [Email]: (he046549@gmail.com)
 
 ---
