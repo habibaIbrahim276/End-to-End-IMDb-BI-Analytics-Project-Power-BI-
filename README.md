@@ -77,7 +77,7 @@ IMDb-BI-Project/
 
 **Habiba Ibrahim Elmsery**
 
-- [Linkedin]: (https://www.linkedin.com/in/habiba-ebrahim/)
-- [Email]: (he046549@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/habiba-ebrahim/)
+- [Email](he046549@gmail.com)
 
 ---
